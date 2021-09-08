@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #fcd9af;
+  --secondary-color: #592921;
+}
+
+.photo {
+  size: 20px;
+}
+h3 {
+  color: var(--secondary-color);
+}
